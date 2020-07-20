@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DetectionApp/darkflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MeasureApp/ar_markers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/darkflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/locationApp/darkflow" vcs="Git" />
+  </component>
+</project>

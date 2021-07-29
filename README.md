@@ -66,4 +66,4 @@
 - Open CV 기반 마커를 통한 길이 측정
 - DB 설계
 
-[프로젝트 소개](https://www.notion.so/4b88685bd5ef410cb792f9490dcacb9d)
+[프로젝트 소개](https://www.notion.so/Android-28446ec864844be588c67652d54b9b55)
